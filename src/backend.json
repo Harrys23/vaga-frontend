@@ -1,0 +1,402 @@
+[
+  {
+    "item": "Anlodipina 10 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:00",
+    "vl_compra": 10.7,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Norvasc 10 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:01",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Pressat 10 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Splendil 10 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Manivasc 20 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Nifedipina 10 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Adalat retard 20 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Adalat oros 30 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Cardizem 90 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Balcor 120 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Hidroclorotiazida 25 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": true
+  },
+  {
+    "item": "Clorana 25 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Natrilix SR 1,5 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Lasix 40 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Clortalidona 25 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Moduretic 25 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Moduretic 12,5 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Aldactone 50 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Captopril 50 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Enalapril 20 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Lisinopril 20 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Ramipril 20 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Naprix 20 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Naprix A 10 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Diovan 320 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Diovan anlo fix 320/5 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Diovan HCT 320/12,5 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Micardis 80 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Micardis HCT 80 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Atacand 16 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Atacand HCT 16 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Olmetec 40 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Olmetec HCT 40 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Aradois 100 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Aradois H 100 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Corus 100 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Corus H 100 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Valtrian 100 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Hidralazina 50 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Aldomet 500 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "AAS prevent 100 mg",
+    "tipo": "Gotas",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "AAS protect 200 mg",
+    "tipo": "Gotas",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "AAS infantil 100 mg",
+    "tipo": "Comprimido",
+    "via": "SUBCUTÂNEA",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Somalgim cardio 200 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Somalgim 200 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Clopidogrel 75 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Plavix 75 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Plagrel 75 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Lopigrel 75 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  },
+  {
+    "item": "Ticlopidina 250 mg",
+    "tipo": "Comprimido",
+    "via": "ORAL",
+    "dt_compra": "2022-10-01 07:00:02",
+    "vl_compra": 13.4,
+    "requer_diluicao": false
+  }
+]
